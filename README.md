@@ -56,13 +56,10 @@ https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sha
 <h3>Halaman Input</h3><br>
 <br>
 
-
 ![input](https://github.com/Agnesayu12/ProjectUAP_ML/assets/108937238/48290173-7673-401f-bc3e-55a4e769ae86)
 
-
-<h3>Halaman About</h3><br>
+<h3>Halaman Hasil</h3><br>
 <br>
-
 
 ![hasil](https://github.com/Agnesayu12/ProjectUAP_ML/assets/108937238/b2d0c817-eb66-48c9-9256-44d9057bce83)
 
